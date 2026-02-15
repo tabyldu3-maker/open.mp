@@ -6,7 +6,7 @@
 	url = https://github.com/openmultiplayer/pawn-natives.git
 [submodule "lib/RakNet"]
 	path = lib/RakNet
-	url = https://github.com/tabyldu3-maker/bydeathcoder-raknet.git
+	url = https://github.com/tabyldu3-maker/raknet.git
 [submodule "lib/ttmath"]
 	path = lib/ttmath
 	url = https://github.com/openmultiplayer/ttmath.git
